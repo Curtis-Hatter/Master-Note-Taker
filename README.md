@@ -1,5 +1,9 @@
 # Note Taker
 
+## Links
+https://github.com/Curtis-Hatter/Master-Note-Taker
+https://nameless-refuge-62902.herokuapp.com/
+
 ## Description
 
 An application that can be used to write, save, and delete notes. This application will use an express backend and save and retrieve note data from a JSON file.
